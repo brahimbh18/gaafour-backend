@@ -1,0 +1,7 @@
+# Compiled binary
+gaafour-backend
+
+# Go build artifacts
+*.exe
+*.test
+*.out
